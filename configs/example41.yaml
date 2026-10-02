@@ -1,0 +1,14 @@
+M: 100
+alpha: 0.95
+theta: 0.5
+epsilon: 0.5
+A_values: [1.406, 1.2, 0.9]
+quad_abs_tol: 1.0e-10
+quad_rel_tol: 1.0e-10
+root_tol: 1.0e-10
+monotonicity_tol: 1.0e-8
+lambda_search_max: 10.0
+lambda_grid_points: 100
+beta_search_max: 10.0
+beta_grid_points: 50
+b_grid_points: 100

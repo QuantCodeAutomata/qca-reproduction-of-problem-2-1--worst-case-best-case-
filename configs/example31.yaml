@@ -1,0 +1,10 @@
+M: 100
+alpha: 0.95
+theta: 0.5
+kappa: 0.9
+epsilon: 0.5
+k_values: [1, 2, 3, 4]
+quad_abs_tol: 1.0e-10
+quad_rel_tol: 1.0e-10
+root_tol: 1.0e-10
+monotonicity_tol: 1.0e-8
